@@ -118,103 +118,103 @@ hr{
 
 .x2 {
   background-color: #eee4da;
-  /* color: #727371; light gray or smoke gray color */
-  color: rgba(0, 0, 0, 0);
-  background-image: var(--background-image-url-02);
+  color: #727371; /* light gray or smoke gray color */
+  /* /* /* /* /* /* /* /* /* color: rgba(0, 0, 0, 0); */ */ */ */ */ */ */ */ */
+  /* background-image: var(--background-image-url-02); */
   background-size: 100% 100%;
 }
           
 .x4 {
   background-color: #ece0ca;
-  /* color: #727371; */
-  color: rgba(0, 0, 0, 0);
-  background-image: var(--background-image-url-04);
+  color: #727371;
+  /* /* /* /* /* /* /* /* color: rgba(0, 0, 0, 0); */ */ */ */ */ */ */ */
+  /* background-image: var(--background-image-url-04); */
   background-size: 100% 100%;
 }
           
 .x8 {
   background-color: #f4b17a;
-  /* color: white; */
-  color: rgba(0, 0, 0, 0);
-  background-image: var(--background-image-url-08);
+  color: white;
+  /* /* /* /* /* /* /* /* color: rgba(0, 0, 0, 0); */ */ */ */ */ */ */ */
+  /* background-image: var(--background-image-url-08); */
   background-size: 100% 100%;
 }
           
 .x16 {
   background-color: #f59575;
-  /* color: white; */
-  color: rgba(0, 0, 0, 0);
-  background-image: var(--background-image-url-16);
+  color: white;
+  /* /* /* /* /* /* /* /* color: rgba(0, 0, 0, 0); */ */ */ */ */ */ */ */
+  /* background-image: var(--background-image-url-16); */
   background-size: 100% 100%;
 }
 .x32 {
   background-color: #f57c5f;
-  /* color: white; */
-  color: rgba(0, 0, 0, 0);
-  background-image: var(--background-image-url-32);
+  color: white;
+  /* /* /* /* /* /* /* /* color: rgba(0, 0, 0, 0); */ */ */ */ */ */ */ */
+  /* background-image: var(--background-image-url-32); */
   background-size: 100% 100%;
 }
           
 .x64 {
   background-color: #f65d3b;
-  /* color: white; */
-  color: rgba(0, 0, 0, 0);
-  background-image: var(--background-image-url-64);
+  color: white;
+  /* /* /* /* /* /* /* /* color: rgba(0, 0, 0, 0); */ */ */ */ */ */ */ */
+  /* background-image: var(--background-image-url-64); */
   background-size: 100% 100%;
 }
           
 .x128 {
   background-color: #edce71;
-  /* color: white; */
-  color: rgba(0, 0, 0, 0);
-  background-image: var(--background-image-url-128);
+  color: white;
+  /* /* /* /* /* /* /* /* color: rgba(0, 0, 0, 0); */ */ */ */ */ */ */ */
+  /* background-image: var(--background-image-url-128); */
   background-size: 100% 100%;
 }
           
 .x256 {
   background-color: #edcc63;
-  /* color: white; */
-  color: rgba(0, 0, 0, 0);
-  background-image: var(--background-image-url-256);
+  color: white;
+  /* /* /* /* /* /* /* /* color: rgba(0, 0, 0, 0); */ */ */ */ */ */ */ */
+  /* background-image: var(--background-image-url-256); */
   background-size: 100% 100%;
 }
           
 .x512 {
   background-color: #edc651;
-  /* color: white; */
-  color: rgba(0, 0, 0, 0);
-  background-image: var(--background-image-url-512);
+  color: white;
+  /* /* /* /* /* /* /* /* color: rgba(0, 0, 0, 0); */ */ */ */ */ */ */ */
+  /* background-image: var(--background-image-url-512); */
   background-size: 100% 100%;
 }
 .x1024 {
   background-color: #eec744;
-  /* color: white; */
-  color: rgba(0, 0, 0, 0);
-  background-image: var(--background-image-url-1024);
+  color: white;
+  /* /* /* /* /* /* /* /* color: rgba(0, 0, 0, 0); */ */ */ */ */ */ */ */
+  /* background-image: var(--background-image-url-1024); */
   background-size: 100% 100%;
 }
           
 .x2048 {
   background-color: #eec230;
-  /* color: white; */
-  color: rgba(0, 0, 0, 0);
-  background-image: var(--background-image-url-2048);
+  color: white;
+  /* /* /* /* /* /* /* /* color: rgba(0, 0, 0, 0); */ */ */ */ */ */ */ */
+  /* background-image: var(--background-image-url-2048); */
   background-size: 100% 100%;
 }
           
 .x4096 {
   background-color: #fe3d3d;
-  /* color: white; */
-  color: rgba(0, 0, 0, 0);
-  background-image: var(--background-image-url-4096);
+  color: white;
+  /* /* /* /* /* /* /* /* color: rgba(0, 0, 0, 0); */ */ */ */ */ */ */ */
+  /* background-image: var(--background-image-url-4096); */
   background-size: 100% 100%;
 }
           
 .x8192 {
   background-color: #ff2020;
-  /* color: white; */
-  color: rgba(0, 0, 0, 0);
-  background-image: var(--background-image-url-8192);
+  color: white;
+  /* /* /* /* /* /* /* /* color: rgba(0, 0, 0, 0); */ */ */ */ */ */ */ */
+  /* background-image: var(--background-image-url-8192); */
   background-size: 100% 100%;
   /* color property is for modifying text color */
 }
